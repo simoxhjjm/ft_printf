@@ -2,7 +2,9 @@
 <h1 align=center>ft_printf</h1>
    <img src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/printf_concept_dark.png" />
 </div>
-ARIADIC FUNCTION
+<br/>
+<br/>
+<h2 align=center>ARIADIC FUNCTION</h2>
 
 -> A variable function is an undefined edge function.
 
