@@ -4,7 +4,7 @@
 </div>
 <br/>
 <br/>
-<h2 align=center>ARIADIC FUNCTION</h2>
+<h2 align=center>VARIADIC FUNCTION</h2>
 
 -> A variable function is an undefined edge function.
 
