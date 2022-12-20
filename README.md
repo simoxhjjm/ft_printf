@@ -55,7 +55,7 @@ Sr.No.	|Macro Name	|Description
 3	|Chain Like	|The macro inside another macro
 
 -> the macros available for working with va_list are :
-	->va_strat  : start using the list.
+	->va_start  : start using the list.
     	The va_start() macro initializes ap for subsequent use by va_arg() and va_end(), and must be called first
 
 	->va_arg.   : get the next argument.
