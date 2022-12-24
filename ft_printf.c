@@ -33,6 +33,8 @@ void	print_type(va_list args, char c, int *len)
 		ft_hexa(va_arg(args, unsigned int), "0123456789ABCDEF", len);
 	else if (c == '%')
 		ft_putchar('%', len);
+	else
+		ft_putchar(c, len);
 }
 
 int	ft_printf(const char *str, ...)
